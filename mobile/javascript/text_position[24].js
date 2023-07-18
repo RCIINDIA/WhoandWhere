@@ -1,0 +1,1 @@
+﻿positionForPages[24]={page:24,positions:[{word:"Aaron",left:0.722804,top:0.027572,width:0.073769,height:0.022774},{word:"Olaniran",left:0.708359,top:0.053374,width:0.102674,height:0.022774},{word:"Portugal",left:0.709324,top:0.079176,width:0.100738,height:0.022774},{word:" ",left:0.759685,top:0.104978,width:0.005239,height:0.022774}]};

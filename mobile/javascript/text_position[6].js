@@ -1,0 +1,1 @@
+﻿positionForPages[6]={page:6,positions:[{word:"Gillian Daly",left:0.099100,top:0.073585,width:0.145565,height:0.024193},{word:"Athens,",left:0.122991,top:0.101166,width:0.097767,height:0.024193},{word:"Greece",left:0.124349,top:0.128747,width:0.095057,height:0.024194},{word:" ",left:0.171877,top:0.155608,width:0.003425,height:0.014232}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[12]={page:12,positions:[{word:"Elwirka",left:0.109957,top:0.056993,width:0.092516,height:0.024194},{word:"Dubkiewicz",left:0.080220,top:0.084575,width:0.151957,height:0.024193},{word:"Giblartar",left:0.098581,top:0.112156,width:0.115231,height:0.024194},{word:" ",left:0.156205,top:0.139017,width:0.003425,height:0.014232}]};

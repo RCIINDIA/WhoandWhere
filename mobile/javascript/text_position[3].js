@@ -1,0 +1,1 @@
+﻿positionForPages[3]={page:3,positions:[{word:"Ana Franklin",left:0.124864,top:0.174894,width:0.148154,height:0.022774},{word:"El Teide,",left:0.147949,top:0.200696,width:0.102002,height:0.022774},{word:"Tenerife",left:0.147752,top:0.226498,width:0.102379,height:0.022774},{word:" ",left:0.198941,top:0.252914,width:0.005822,height:0.024194}]};
